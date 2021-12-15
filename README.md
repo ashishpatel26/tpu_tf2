@@ -29,5 +29,8 @@ strategy.num_replicas_in_sync
 > output : 8
 ```
 
+![](https://github.com/ashishpatel26/tpu_tf2/blob/main/tpu_tf2.gif?raw=true)
+
 💁 Thanks for reading and forking.
 ---
+
