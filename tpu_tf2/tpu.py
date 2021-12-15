@@ -1,5 +1,6 @@
 import tensorflow as tf
 import os
+
 def tpu_scope():
   resolver = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='grpc://' + os.environ['COLAB_TPU_ADDR'])
   #Connect to the TPU handle and initialise it

@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+tpu_tf2/__init__.py
+tpu_tf2/tpu.py
+tpu_tf2.egg-info/PKG-INFO
+tpu_tf2.egg-info/SOURCES.txt
+tpu_tf2.egg-info/dependency_links.txt
+tpu_tf2.egg-info/requires.txt
+tpu_tf2.egg-info/top_level.txt
+tpu_tf2.egg-info/zip-safe
