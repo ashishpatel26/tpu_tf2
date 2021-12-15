@@ -8,6 +8,7 @@
 
 To install the package from the PyPi repository you can execute the following
 command:
+
 ```sh
 pip install tpu_tf2
 ```
@@ -19,7 +20,7 @@ pip install .
 ```
 ## Usage
 
-> usage in colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+> usage in colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/tpu_tf2/blob/main/demo_colab.ipynb)
 
 ```python
 from tpu_tf2.tpu import strategy
